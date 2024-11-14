@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectCode\\SR20_Code\\Test_Winform\\SQLiteEncryptionDecryption\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}|SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption.csproj|d:\\projectcode\\sr20_code\\test_winform\\sqliteencryptiondecryption\\sqliteencryptiondecryption\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}|SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption.csproj|solutionrelative:sqliteencryptiondecryption\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}|SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption.csproj|d:\\projectcode\\sr20_code\\test_winform\\sqliteencryptiondecryption\\sqliteencryptiondecryption\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}|SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption.csproj|solutionrelative:sqliteencryptiondecryption\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}|SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption.csproj|d:\\projectcode\\sr20_code\\test_winform\\sqliteencryptiondecryption\\sqliteencryptiondecryption\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}|SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption.csproj|solutionrelative:sqliteencryptiondecryption\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}|SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption.csproj|d:\\projectcode\\sr20_code\\test_winform\\sqliteencryptiondecryption\\sqliteencryptiondecryption\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}|SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption.csproj|solutionrelative:sqliteencryptiondecryption\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ProjectCode\\SR20_Code\\Test_Winform\\SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption\\User.cs",
+              "RelativeDocumentMoniker": "SQLiteEncryptionDecryption\\User.cs",
+              "ToolTip": "D:\\ProjectCode\\SR20_Code\\Test_Winform\\SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption\\User.cs",
+              "RelativeToolTip": "SQLiteEncryptionDecryption\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:45:36.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme.txt",
+              "DocumentMoniker": "D:\\ProjectCode\\SR20_Code\\Test_Winform\\SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption\\readme.txt",
+              "RelativeDocumentMoniker": "SQLiteEncryptionDecryption\\readme.txt",
+              "ToolTip": "D:\\ProjectCode\\SR20_Code\\Test_Winform\\SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption\\readme.txt",
+              "RelativeToolTip": "SQLiteEncryptionDecryption\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAD9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-14T04:43:34.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectCode\\SR20_Code\\Test_Winform\\SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption\\Program.cs",
+              "RelativeDocumentMoniker": "SQLiteEncryptionDecryption\\Program.cs",
+              "ToolTip": "D:\\ProjectCode\\SR20_Code\\Test_Winform\\SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption\\Program.cs",
+              "RelativeToolTip": "SQLiteEncryptionDecryption\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:38:32.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\ProjectCode\\SR20_Code\\Test_Winform\\SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption\\Form1.cs",
+              "RelativeDocumentMoniker": "SQLiteEncryptionDecryption\\Form1.cs",
+              "ToolTip": "D:\\ProjectCode\\SR20_Code\\Test_Winform\\SQLiteEncryptionDecryption\\SQLiteEncryptionDecryption\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SQLiteEncryptionDecryption\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:38:12.619Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

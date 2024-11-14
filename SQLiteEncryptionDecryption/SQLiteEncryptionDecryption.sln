@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteEncryptionDecryption", "SQLiteEncryptionDecryption\SQLiteEncryptionDecryption.csproj", "{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA1809D-B9B3-47E0-80A0-D35CA5D6588A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD330F53-1487-4830-B618-A8110964B8F7}
+	EndGlobalSection
+EndGlobal
